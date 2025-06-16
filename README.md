@@ -1,7 +1,6 @@
 # System Health Monitor
 
-A lightweight Python script that logs CPU and memory usage to a local file and alerts if usage exceeds defined thresholds.
-
+A lightweight Python script that logs CPU and memory usage to a local file. 
 ## Features
 
 - Logs timestamped CPU and memory usage
@@ -23,3 +22,7 @@ python monitor.py
 ```
 
 Check `health.log` for saved metrics.
+
+## Coming in Next Version
+
+Alerts if usage exceeds defined thresholds.
